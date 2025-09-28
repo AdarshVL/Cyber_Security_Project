@@ -110,7 +110,7 @@ The detailed PDF report (with dataset, queries, analysis, and screenshots) is av
 
 * Document everything properly.
 
-## 🚀 Tech Stack
+## 🚀 Tech Stack and Tools
 
 * Splunk Enterprise / Splunk Cloud
 
