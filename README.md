@@ -96,7 +96,7 @@ From the dashboard:
 ## 📑 Report
 
 The detailed PDF report (with dataset, queries, analysis, and screenshots) is available here:
-👉 Download Report
+👉 [Download Report](https://github.com/AdarshVL/Cyber_Security_Project/blob/main/Cyber_Security_Project_Report.docx)
 
 ## 💡 Tips for Learners
 
