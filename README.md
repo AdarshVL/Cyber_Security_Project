@@ -31,7 +31,7 @@ A **sample structured log file** (`sample.csv`) was created with the following f
 - `ip_address`  
 - `status` (success/failure)  
 
-👉 [View Dataset](./dataset/sample.csv)
+👉 [View Dataset](https://github.com/AdarshVL/Cyber_Security_Project/blob/main/sample_log_dataset.csv)
 
 ---
 
